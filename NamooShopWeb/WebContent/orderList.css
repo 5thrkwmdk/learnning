@@ -1,0 +1,33 @@
+#orderList {
+   width : 600px;
+}
+ 
+table {
+   border-collapse: collapse;
+   border-left: 1px solid #222;
+   border-bottom: 1px solid #222;
+   width : 600px;
+}
+ 
+td,th {
+   border-top: 1px solid #222;
+   border-right: 1px solid #222;
+   padding: 10px 25px;
+}
+ 
+thead {
+   backGround-color: rgb(216, 216, 216);
+}
+ 
+table2 {
+   text-align: right;
+}
+
+input[type=submit] {
+   float : right;
+   margin-top : 20px;
+}
+
+th {
+   text-align: center;
+}

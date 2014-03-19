@@ -1,0 +1,39 @@
+@CHARSET "UTF-8";
+#productlist {
+	width : 700px;
+
+	margin-top : 10px;
+	margin-left : 30px;
+}
+input[type=submit]{
+	float : right;
+	margin-top: 10px;
+}
+
+table {
+   border-collapse: collapse;
+   border-left: 1px solid #222;
+   border-bottom: 1px solid #222;
+   width : 700px;
+   height : 80px;
+}
+ 
+td,th {
+   border-top: 1px solid #222;
+   border-right: 1px solid #222;
+   padding: 10px 20px;
+}
+ 
+th {
+   text-align: center;
+}
+ 
+thead {
+   background-color: rgb(216, 216, 216);
+}
+ 
+.right {
+   margin-left : 620px;
+   width : 80px;
+   font-size: 15px;
+}

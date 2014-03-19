@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+
+#complete {
+	margin-top: 200px;
+	text-align: center;
+}
+input[type=submit] {
+	font-size: 50;
+}

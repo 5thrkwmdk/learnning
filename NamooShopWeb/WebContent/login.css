@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+
+#loginform {
+	width: 350px;
+	margin-top: 20px;
+	margin-left: 20px;
+
+}
+
+input[type=submit] {
+	float : right;
+	margin-top : 10px;
+}
+
+table {
+	border-collapse: collapse;
+	border: 1px solid #222;
+	width: 350px;
+}
+
+tr,td,th {
+	border-top: 1px solid #222;
+	border-right: 1px solid #222;
+}
+
+th {
+	text-align: center;
+	padding-left : 20px;
+	padding-right : 20px;
+}
+input[type=text] {
+	width : 200px;
+	margin-left : 10px;
+}
+input[type=password]{
+	width : 200px;
+	margin-left : 10px;
+}
