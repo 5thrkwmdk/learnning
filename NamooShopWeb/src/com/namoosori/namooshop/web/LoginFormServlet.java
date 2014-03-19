@@ -37,7 +37,7 @@ public class LoginFormServlet extends HttpServlet {
 			PrintWriter writer = resp.getWriter();
 			writer.println("<html>");
 			writer.println("<head>");
-			writer.println("<title>로그인</title>");
+			writer.println("<title>로그인 </title>");
 			writer.println("<link href='login.css' rel='stylesheet' type='text/css' />");
 			writer.println("</head>");
 			writer.println("<body>");
